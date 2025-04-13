@@ -5,6 +5,7 @@
 - 📫 How to reach me: [here](mailto:terencetaotbsi@gmail.com), [here](mailto:sytao@berkeley.edu) and [here](mailto:tsy22@mails.tsinghua.edu.cn).
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: use AI/ML to give retired batteries a "second-life".
+- 🎓 Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=MHzCCogAAAAJ
 <!---
 terencetaothucb/terencetaothucb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
